@@ -1,0 +1,4 @@
+org\example\spring_lab3_notifications\model\enums\NotificationChannel.class
+org\example\spring_lab3_notifications\service\MessageService.class
+org\example\spring_lab3_notifications\model\enums\NotificationStatus.class
+org\example\spring_lab3_notifications\service\SmsService.class
